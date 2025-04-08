@@ -10,9 +10,7 @@
   height: 100vh;
 }
 
-.custom-container>div {
-  padding: 10px;
-}
+
 
 .custom-container>div.header {
   grid-area: header;
