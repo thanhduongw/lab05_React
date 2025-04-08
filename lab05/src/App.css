@@ -6,7 +6,7 @@
     "menu table";
   grid-template-columns: 1fr 4fr;
   grid-template-rows: 10% 25% 65%;
-  gap: 8px;
+  gap: 4px;
   height: 100vh;
 }
 
